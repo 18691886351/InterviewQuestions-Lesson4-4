@@ -1,0 +1,30 @@
+#pager .question {
+    margin-top: 20px;
+}
+
+#pager .question .content {
+    margin-right: 0;
+    margin-left: 0;
+    background-color: #fff;
+    border-color: #ddd;
+    border-width: 1px;
+    border-radius: 4px 4px 0 0;
+    border-style: solid;
+}
+
+#pager .question .content ol li {
+    margin-top: 10px;
+}
+
+#pager .question .content ul {
+    padding-left: 40px;
+}
+
+#pager .question .content h4 {
+    padding-left: 40px;
+    font-weight:bold;
+}
+
+#pager .question .content ul li {
+    margin-top: 10px;
+}
